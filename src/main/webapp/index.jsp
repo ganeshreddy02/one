@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>hero67</h1>
+            <h1>hero</h1>
             <p>Discover trends</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
