@@ -827,7 +827,7 @@
     <section class="hero">
         <div class="hero-content">
             <h1>Ganesh collection hello</h1>
-            <p>Discover trends of hero collection guest</p>
+            <p>Discover trends of hero collection fine guest</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
