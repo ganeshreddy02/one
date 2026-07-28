@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.60.171.197:8081/repository/gun/</url>
+		    <url>http://16.16.179.3:8081/repository/myrepo/</url>
 		</repository>
   	</distributionManagement>
 	
